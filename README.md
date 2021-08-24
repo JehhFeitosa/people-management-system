@@ -20,5 +20,8 @@ The best project was developed a small system for managing people in a company t
 
 
 
+### Notes
+https://www.notion.so/Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot-b39090efb20443c3833df7f610831b62
+
 
 
